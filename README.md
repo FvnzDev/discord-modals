@@ -163,7 +163,7 @@ client.on('modalSubmit', (modal) => {
 - Check our documentation [here](https://github.com/Mateo-tem/discord-modals/blob/master/DOCS.md).
 
 # 🔨 Developers
-- 『Yon#0001
+- Yon#0001
 
 # ⛔ Issues/Bugs?
 > **Please report it on our GitHub Repository [here](https://github.com/Mateo-tem/discord-modals/issues) to fix it inmmediately.**
